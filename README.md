@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Leinstay</h1>
 <h3 align="center">Backend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [React Native app](https://github.com/leinstay/rnbnr-template)
-- 🌱 My strongest technology stacks are: **LAMP for Web, Python for CLI, Node.js for bots**
+- 🔭 I’m currently working on a React Native app that will allow me to add .mka audio tracks to .mkv videos.
+- 🌱 My latest projects: [RNBNR](https://www.npmjs.com/package/rnbnr-template) and [asciiclip](https://pypi.org/project/asciiclip/)
+- 🌱 My favorite project: [Game Gauntlets](https://gamegauntlets.com/)
 - ⚡ I’m currently learning **Redis, PostgreSQL, React and React Native**
 - 📫 How to reach me: **leinstay@gmail.com**
 - 📄 Know about my experiences: [https://www.linkedin.com/in/leinstay](https://www.linkedin.com/in/leinstay)
