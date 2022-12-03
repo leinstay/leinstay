@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leinstay</h1>
 <h3 align="center">Backend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on a React Native app that will allow me to add .mka audio tracks to .mkv videos.
+- 🔭 I’m currently working on a React Native app that will allow me to add .mka audio tracks to .mkv videos
 - 🌱 My latest projects: [RNBNR](https://www.npmjs.com/package/rnbnr-template) and [asciiclip](https://pypi.org/project/asciiclip/)
 - 💕 My favorite project: [Game Gauntlets](https://gamegauntlets.com/)
 - ⚡ I’m currently learning **Redis, PostgreSQL, React and React Native**
