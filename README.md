@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leinstay</h1>
 <h3 align="center">Backend developer from Ukraine</h3>
 
-- 🔭 I’m currently working on [React Native application](https://github.com/leinstay/rnbnr-template)
+- 🔭 I’m currently working on [React Native app](https://github.com/leinstay/rnbnr-template)
 - 🌱 My strongest technology stacks are: **LAMP for Web, Python for CLI, Node.js for bots**
 - ⚡ I’m currently learning **Redis, PostgreSQL, React, React Native and TypeScript**
 - 📫 How to reach me: **leinstay@gmail.com**
