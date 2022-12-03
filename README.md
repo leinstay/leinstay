@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [React Native app](https://github.com/leinstay/rnbnr-template)
 - 🌱 My strongest technology stacks are: **LAMP for Web, Python for CLI, Node.js for bots**
-- ⚡ I’m currently learning **Redis, PostgreSQL, React, React Native and TypeScript**
+- ⚡ I’m currently learning **Redis, PostgreSQL, React and React Native**
 - 📫 How to reach me: **leinstay@gmail.com**
 - 📄 Know about my experiences: [https://www.linkedin.com/in/leinstay](https://www.linkedin.com/in/leinstay)
 - 🕹️ Fun fact: **In my free time I like to play slow paced games like Dwarf Fortress, Stellaris or Civilization, try new MMORPGs or work out in Beat Saver VR.**
