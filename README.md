@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on a React Native app that will allow me to add .mka audio tracks to .mkv videos.
 - 🌱 My latest projects: [RNBNR](https://www.npmjs.com/package/rnbnr-template) and [asciiclip](https://pypi.org/project/asciiclip/)
-- 🌱 My favorite project: [Game Gauntlets](https://gamegauntlets.com/)
+- 💕 My favorite project: [Game Gauntlets](https://gamegauntlets.com/)
 - ⚡ I’m currently learning **Redis, PostgreSQL, React and React Native**
 - 📫 How to reach me: **leinstay@gmail.com**
 - 📄 Know about my experiences: [https://www.linkedin.com/in/leinstay](https://www.linkedin.com/in/leinstay)
